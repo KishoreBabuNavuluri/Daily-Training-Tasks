@@ -17,3 +17,8 @@ Day 11-05-2021:
 1. Watched the the videos and send by sir.
 2. Completed some handson(chapter 2) on bootstap sendbox.
 3. completed chapter 4 and 5 in bootstrap sendbox.
+
+
+Day 14-05-2021:
+1. learn about TypeScript.
+2. Done some handson  on Typescirpt and angular.
