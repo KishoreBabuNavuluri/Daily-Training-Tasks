@@ -22,3 +22,7 @@ Day 11-05-2021:
 Day 14-05-2021:
 1. learn about TypeScript.
 2. Done some handson  on Typescirpt and angular.
+
+Day 15-05-2021:
+1. learn Directives and Binding,
+2. done structrual directives handson.
