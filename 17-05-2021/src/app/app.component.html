@@ -1,0 +1,9 @@
+<h1 class="bg-primary">Hello this is kishore </h1>
+<app-addemployee [countFromParent]="count" (countFromChild)="getFromChild($event)"></app-addemployee>
+    <hr>
+    <div>
+        count from child is {{count}}
+    </div>
+    <hr>
+    <hr>
+    <app-employee></app-employee>

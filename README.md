@@ -26,3 +26,7 @@ Day 14-05-2021:
 Day 15-05-2021:
 1. learn Directives and Binding,
 2. done structrual directives handson.
+
+Day 17-05-2021:
+1.learn angular forms and sevices.
+2. Done handson on angular forms.
