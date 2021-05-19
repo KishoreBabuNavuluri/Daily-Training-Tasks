@@ -1,0 +1,8 @@
+
+ {
+ "employees": [
+    { "id" :11, "password" : "password", "name" :"kishore", "age" :21,  "address":"Darsi",  "company":"CTS"},
+    { "id" :12, "password" : "password", "name" :"harsha", "age" :22,  "address":"MTM",  "company":"CTS"}
+
+]
+}
