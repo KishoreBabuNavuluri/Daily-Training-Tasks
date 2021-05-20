@@ -1,0 +1,19 @@
+
+<table>
+    <tr>
+        <td>Id</td>
+        <td>Name</td>
+        <td>password</td>
+        <td>Phone</td>
+        <td>Action</td>
+    </tr>
+    <tr *ngFor="let employee of users">
+        <td>{{employee.id}}</td>
+        <td>{{employee.username}}</td>
+        <td>{{employee.password}}</td>
+        <td>{{employee.phone}}</td>
+        <td><button class="btn btn-primary" (click)="updateUser(employee)">Update</button>
+            <button class="btn btn-danger" (click)="deleteUser(employee)">Delete</button>
+        </td>
+    </tr>
+</table>

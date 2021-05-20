@@ -33,3 +33,6 @@ Day 17-05-2021:
 
 Day 18-05-2021
 1. done routing.
+
+Day 19-05-2021
+1. Done Linking springboot with angular.
